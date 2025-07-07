@@ -1,3 +1,3 @@
 # holbertonschool-web_front_end
 
-Thiis project means to teach us about html.
+This project means to teach us about html, CSS and JavaScript.
